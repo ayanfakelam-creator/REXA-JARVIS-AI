@@ -1,0 +1,16 @@
+edge-tts
+pygame
+psutil
+pyautogui
+pygetwindow
+SpeechRecognition
+pyaudio
+selenium
+webdriver-manager
+chromadb
+sentence-transformers
+Pillow
+google-genai
+openai
+python-dotenv
+requests
